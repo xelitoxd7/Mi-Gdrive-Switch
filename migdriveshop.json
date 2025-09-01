@@ -1,13 +1,13 @@
 {
-  "name": "Mi GCloud Shop",
+  "name": "Test Shop",
   "version": 2,
   "directories": [
     {
-      "name": "Switch Games",
+      "name": "Imágenes de prueba",
       "files": [
         {
-          "name": "Car Mechanic Simulator Pocket Edition",
-          "url": "https://drive.google.com/uc?id=1gfPcpWAYr21svfjJYvUyWHt4iDd7S--5&export=download"
+          "name": "Logo de prueba",
+          "url": "https://raw.githubusercontent.com/xelitoxd7/Mi-Gdrive-Switch/main/test.png"
         }
       ]
     }
