@@ -1,15 +1,11 @@
 {
-  "name": "Test Shop",
-  "version": 2,
-  "directories": [
-    {
-      "name": "Imágenes de prueba",
-      "files": [
-        {
-          "name": "Logo de prueba",
-          "url": "https://raw.githubusercontent.com/xelitoxd7/Mi-Gdrive-Switch/main/test.png"
-        }
-      ]
-    }
-  ]
+   "name": "Mi GDrive Shop",
+   "files": [
+      {
+         "name": "Car Mechanic Simulator Pocket Edition",
+         "url": "https://tu-servidor.com/CarMechanic.nsp",
+         "titleid": "0100A5C00BDC8000",
+         "version": "1.0.0"
+      }
+   ]
 }
