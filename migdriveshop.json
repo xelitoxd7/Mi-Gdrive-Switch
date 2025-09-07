@@ -1,11 +1,17 @@
 {
-   "name": "Mi GDrive Shop",
-   "files": [
-      {
-         "name": "Car Mechanic Simulator Pocket Edition",
-         "url": "https://drive.google.com/uc?id=1gfPcpWAYr21svfjJYvUyWHt4iDd7S--5&export=download",
+  "name": "Mi GCloud Shop",
+  "version": 2,
+  "directories": [
+    {
+      "name": "Switch Games",
+      "files": [
+        {
+          "name": "Car Mechanic Simulator Pocket Edition",
+          "url": "https://drive.google.com/uc?id=1gfPcpWAYr21svfjJYvUyWHt4iDd7S--5&export=download",
          "titleid": "0100A5C00BDC8000",
          "version": "1.0.0"
+           }
+        ]
       }
    ]
 }
