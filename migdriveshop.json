@@ -1,17 +1,35 @@
 {
-  "name": "Mi GCloud Shop",
-  "version": 2,
-  "directories": [
+  "name": "MiDriveShop",
+  "title": "Google Drive Shop",
+  "version": 1,
+  "contents": [
     {
-      "name": "Switch Games",
-      "files": [
-        {
-          "name": "Car Mechanic Simulator Pocket Edition.nsp",
-          "url": "https://drive.google.com/uc?id=1gfPcpWAYr21svfjJYvUyWHt4iDd7S--5&export=download",
-         "titleid": "0100A5C00BDC8000",
-         "version": "1.0.0"
-           }
-        ]
-      }
-   ]
+      "name": "Crash Bandicoot N. Sane Trilogy",
+      "title": "Crash Bandicoot N. Sane Trilogy",
+      "author": "Nintendo",
+      "nsuId": "0100D1B006744000",
+      "url": "https://drive.google.com/uc?id=14hu5HWhuzVFT4p-GShz1wLmsxJQJspIf&export=download",
+      "iconUrl": "https://drive.google.com/file/d/17gdMDtdP0GnFk7BtlwAG30GUbKI6k9jb/view"
+    },
+    {
+      "name": "Cuphead",
+      "title": "Cuphead",
+      "author": "Nintendo",
+      "nsuId": "0100A5C00D162000",
+      "url": "https://drive.google.com/uc?id=1ScyKpY1E8zQ4c4F8ak7OYftaAaaV-bme&export=download",
+      "iconUrl": "https://drive.google.com/file/d/1JU5-CdR4tuGTAEufT1yOZDP4KYsEkPkX/view"
+    },
+    {
+      "name": "Mario Tennis Aces",
+      "title": "Mario Tennis Aces",
+      "author": "Nintendo",
+      "nsuId": "010060C00B0AA000",
+      "url": "https://drive.google.com/uc?id=1C91SyeRjAzl0dMAQkAw5i89uzIGNM_c1&export=download",
+      "iconUrl": "https://drive.google.com/file/d/1MGMXdamCikDi_IybS6_7qVzbI8ZdgyUh/view"
+    }
+  ],
+  "recommendations": [
+    "Crash Bandicoot N. Sane Trilogy",
+    "Cuphead"
+  ]
 }
